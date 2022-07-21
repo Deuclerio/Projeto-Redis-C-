@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\Estudos.Redis.Api.csproj": {}
+    "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\Estudos.Redis.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\Estudos.Redis.Api.csproj": {
+    "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\Estudos.Redis.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\Estudos.Redis.Api.csproj",
+        "projectUniqueName": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\Estudos.Redis.Api.csproj",
         "projectName": "Estudos.Redis.Api",
-        "projectPath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\Estudos.Redis.Api.csproj",
+        "projectPath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\Estudos.Redis.Api.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\obj\\",
+        "outputPath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",

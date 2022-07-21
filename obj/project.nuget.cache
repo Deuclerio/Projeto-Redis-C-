@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WhTu9TpLG+CSDSGdbwDRmJOXeujx2EYxLFdp9n2CxjMNLZWf89cq6Pckx2FvU8I5/SjkaMb41eh06NrUeU6rBQ==",
+  "dgSpecHash": "fzDRvDRLS93fldrT8c+sKUqnhRH/rHvAwIUOqkhAwnBVEGVmBpOjmw5McBSUoLGtt6tny3b3IA4zeCqJz7Kdwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\Estudos\\Estudos-Redis-Api\\Estudos.Redis.Api\\Estudos.Redis.Api.csproj",
+  "projectFilePath": "C:\\Users\\deucl\\OneDrive\\Área de Trabalho\\redisGit\\redis\\Estudos.Redis.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
